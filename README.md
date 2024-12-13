@@ -9,11 +9,12 @@
 
 ###
 
-<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1360/1*XpdVmHbfJsDzZ_GqmOEIWg.gif"  />
 
 
-<p style="font-size:24px;">My Tech Stack</p>
-<div align="left">
+
+<h3 align = "center">My Tech Stack</h3>
+<hr>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -28,10 +29,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
 </div>
-
-###
-
-<div align="left">
+<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1360/1*XpdVmHbfJsDzZ_GqmOEIWg.gif"  />
+<br>
+<br>
+<br>
+<br>
+<br>
+<h3 align = "center">My Socials</h3>
+<hr>
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <a href="https://www.instagram.com/oscar_bhusal/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
