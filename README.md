@@ -12,7 +12,7 @@
 
 
 
-<h3 align = "center">My Tech Stack</h3>
+<h2 align = "center">My Tech Stack</h3>
 <hr>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -29,14 +29,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
 </div>
-<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1360/1*XpdVmHbfJsDzZ_GqmOEIWg.gif"  />
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<h3 align = "center">My Socials</h3>
+<h2 align = "center">My Socials</h3>
 <hr>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
