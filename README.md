@@ -11,9 +11,8 @@
 
 <img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1360/1*XpdVmHbfJsDzZ_GqmOEIWg.gif"  />
 
-###
 
-<h2 align = "center">My Tech Stack</h2>
+<p style="font-size:24px;">My Tech Stack</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
